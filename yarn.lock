@@ -10305,10 +10305,10 @@ create-react-context@^0.1.5:
   resolved "https://registry.yarnpkg.com/create-react-context/-/create-react-context-0.1.6.tgz#0f425931d907741127acc6e31acb4f9015dd9fdc"
   integrity sha512-eCnYYEUEc5i32LHwpE/W7NlddOB9oHwsPaWtWzYtflNkkwa3IfindIcoXdVWs12zCbwaMCavKNu84EXogVIWHw==
 
-cronstrue@^1.51.0:
-  version "1.51.0"
-  resolved "https://registry.yarnpkg.com/cronstrue/-/cronstrue-1.51.0.tgz#7a63153d61d940344049037628da38a60784c8e2"
-  integrity sha512-fSRAz/MV0TRjeNZKAsovmH/MSsly7+8np4XsfsrjOOz7sjxLrE9SmedRYAs3nPAtLLC5UsMpvenjXYRz463bMA==
+cronstrue@^1.113.0:
+  version "1.114.0"
+  resolved "https://registry.yarnpkg.com/cronstrue/-/cronstrue-1.114.0.tgz#0e673fa62ce90181c38e07c6b2d7f9fc753153b8"
+  integrity sha512-j1JuBHTJKKX41NUJVHmWn2ZYHnLipsIoq7bAZVeVzehA9+rmG6v9NgMiMa0KiiFzozihgt4yGNe5aMVc/IoYLg==
 
 cross-env@^6.0.3:
   version "6.0.3"
